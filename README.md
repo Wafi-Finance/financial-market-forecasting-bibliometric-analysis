@@ -1,4 +1,4 @@
-# Financial Market Forecasting – Bibliometric Analysis
+# # Financial Market Forecasting – Systematic, Bibliometric, & Content Analysis (JRFM Manuscript: jrfm-4129983)
 
 ## Supplementary Materials
 
@@ -6,7 +6,7 @@ This repository contains the bibliometric analysis outputs generated using the B
 
 Wafi, A.S., El-Halaby, S., Ahmed, H. (2026). Financial-market forecasting and modelling from econometrics to AI: An integrated systematic and bibliometric review with content synthesis (1990–2024). Journal of Risk and Financial Management.
 
-The analyses were conducted using the **The bibliometric analysis was conducted using the bibliometrix package (version 4.2.0) through its Biblioshiny interface, implemented in R (R Foundation for Statistical Computing, Vienna, Austria) and executed within RStudio (Posit PBC, Boston, MA, USA).**.
+The bibliometric analysis was conducted using the bibliometrix package (version 4.2.0) through its Biblioshiny interface, implemented in R (R Foundation for Statistical Computing, Vienna, Austria) and executed within RStudio (Posit PBC, Boston, MA, USA).**.
 
 ---
 
